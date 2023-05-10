@@ -4,6 +4,7 @@
 
 סעיף ב מימשנו אלגוריתם דיאקסטרה
 
+https://smarthomegame.itch.io/ex6
 
 
 # Unity week 5: Two-dimensional scene-building and path-finding
