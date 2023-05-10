@@ -1,3 +1,11 @@
+השינויים עשינו - 
+
+סעיף א שינינו את האריחים שיהיו משושים.
+
+סעיף ב מימשנו אלגוריתם דיאקסטרה
+
+
+
 # Unity week 5: Two-dimensional scene-building and path-finding
 
 A project with step-by-step scenes illustrating how to construct a 2D scene using tilemaps,
