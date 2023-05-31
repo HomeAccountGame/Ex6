@@ -1,4 +1,4 @@
-Add ML-Agents that Chase after the player in scene ML-agents
+Add ML-Agents that Chase after the player in scene ML-agents - https://github.com/HomeAccountGame/Ex6/blob/main/Assets/Scenes/5-ML/ML-Agents.unity
 
 https://smarthomegame.itch.io/ml-a
 
